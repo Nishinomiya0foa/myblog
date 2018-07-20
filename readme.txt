@@ -3,3 +3,4 @@ Git is free software.
 I modified this txt.
 I modified this txt.Again
 Git has a index called stage.
+Git tracks changes.Instead of files.
