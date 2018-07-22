@@ -6,3 +6,4 @@ Git has a index called stage.
 Git tracks changes.Instead of files.
 Hello.
 Creating a new branch is quick.And simple.
+Please debug this.
